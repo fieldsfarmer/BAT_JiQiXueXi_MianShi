@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# 百度2015校招机器学习笔试题第三题
+# cannot believe it's not easy
 import random
 import math
 
